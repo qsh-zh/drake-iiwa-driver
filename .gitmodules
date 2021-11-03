@@ -1,0 +1,4 @@
+[submodule "kuka-fri"]
+	path = kuka-fri
+	url = git@github.com:qsh-zh/kuka-fri.git
+	branch = drake
